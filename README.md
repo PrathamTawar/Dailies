@@ -1,4 +1,5 @@
-Dailies- To-Do List App
+Daily's- To-Do List App
+
 This project is a simple to-do list web application that allows users to create, update, delete, and mark tasks as complete. It consists of a Django REST API as the backend and a frontend built with HTML, CSS, and JavaScript.
 
 
